@@ -12,7 +12,7 @@ Currently **ONLY** works with **MK2** variant keyboards.
 
 
 
-![---](gui-image.png)
+![Image](gui-image.png)
 
 
 ## Features
